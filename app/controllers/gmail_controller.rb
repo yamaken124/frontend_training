@@ -1,0 +1,2 @@
+class GmailController < ApplicationController
+end
